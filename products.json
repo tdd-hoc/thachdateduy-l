@@ -1,0 +1,51 @@
+[
+    {
+        "id": 2,
+        "name": "BMW X4",
+        "price": "2.899.000.000 VNĐ",
+        "desciption":"Xăng",
+        "image": "image/mot.jpg",
+        "type":"bmwx"
+    },
+    {
+        "id": 3,
+        "name": "THE NEW X5",
+        "price": "3.909.000.000",
+        "desciption":"Xăng",
+        "image": "image/hai.webp",
+        "type":"bmwx"
+
+    },
+    {
+        "id": 4,
+        "name": "phuộc đồ chơi CHAIR",
+        "price": 600,
+        "desciption":"hàng chuyên về sản phẩm xe máy ware",
+        "image": "image/ba.webp",
+        "type":"bmwx"
+    },
+    {
+        "id": 5,
+        "name": "LD01 LOUNGE CHAIR",
+        "price": 4200,
+        "desciption":"hàng chuyên về sản phẩm xe máy ware",
+        "image": "image/bon.webp",
+        "type":"bmwi"
+    },
+    {
+        "id": 6,
+        "name": "LD01 LOUNGE CHAIR",
+        "price": 2020,
+        "desciption":"hàng chuyên về sản phẩm xe máy ware",
+        "image": "image/nam.webp",
+        "type":"bmwi"
+    },
+    {
+        "id": 7,
+        "name": "LD01 LOUNGE CHAIR",
+        "price": 2200,
+        "desciption":"hàng chuyên về sản phẩm xe máy ware",
+        "image": "image/sau.jpg",
+        "type":"bmwm"
+    }
+]
